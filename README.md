@@ -1,39 +1,34 @@
 # 🚀 FullStack + AI Journey
 
-Welcome to my journey to becoming a Full-Stack + AI Engineer.
+Hi! I'm Simi, and this repository documents my journey to becoming a Full-Stack + AI Engineer.
 
-## 📚 Learning Roadmap
+## 🛠 Tech Stack
 
-- ✅ JavaScript
-- ⏳ TypeScript
-- ⏳ HTML & CSS
-- ⏳ React
-- ⏳ Node.js
-- ⏳ Express.js
-- ⏳ PostgreSQL
-- ⏳ Docker
-- ⏳ System Design
-- ⏳ AI Integration
+- JavaScript
+- TypeScript
+- HTML & CSS
+- Angular
+- Node.js
+- Express.js
+- PostgreSQL
+- Docker
+- AI APIs
+
+## 📂 Structure
+
+- 01-JavaScript
+- 02-TypeScript
+- 03-HTML-CSS
+- 04-Angular
+- 05-NodeJS
+- 06-Express
+- 07-PostgreSQL
+- 08-Docker
+- 09-System-Design
+- 10-AI
+- Projects
+- Resources
 
 ## 🎯 Goal
 
-Become a Full-Stack + AI Engineer by building real-world projects and documenting my learning every day.
-
----
-
-### Repository Structure
-
-```
-01-JavaScript/
-02-TypeScript/
-03-HTML-CSS/
-04-React/
-05-NodeJS/
-06-Express/
-07-PostgreSQL/
-08-Docker/
-09-System-Design/
-10-AI/
-Projects/
-Notes/
-```
+Build production-ready applications while mastering full-stack development and AI integration.
